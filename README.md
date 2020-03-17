@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction-using-Logistic-Regression-in-Python
 
-In this, I develeped a classifier that predicts  which customer will leave a particular company or stays with the company simply referred as **Churns** from the given customer dataset.
+In this, I developed a classifier that predicts  which customer will leave a particular company or stays with the company which is simply referred as **Churns** from the given customer dataset.
 
 This is implemeted in Python by using Scikit-learn[sklearn], Pandas, Numpy, Matplotlib, Seaborn 
 
